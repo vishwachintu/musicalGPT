@@ -7,5 +7,5 @@ Each digit is mapped to the notes forming a C Major scale - the values 0-9 are m
 
 To run:
 
-1. Install [`pyo`](http://ajaxsoundstudio.com/software/pyo/)
+1. Install [`pyo`] from (http://ajaxsoundstudio.com/software/pyo/)
 2. `python musicalGPT.py`
